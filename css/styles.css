@@ -5,3 +5,32 @@ div {
     text-align: center;
     font-weight: bold;
 }
+
+.home {
+    text-align: center;
+
+}
+
+h1, h2, h3, p {
+    text-align: center;
+}
+
+h1, h2, h3 {
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: darkolivegreen;
+    color: rgba(255, 217, 0, 0.799);
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 75%;
+    border: darkolivegreen;
+    border-style: double;
+    border-width: 2cm;
+}
+
